@@ -1,1 +1,0 @@
-pelajari script python kamus.py
