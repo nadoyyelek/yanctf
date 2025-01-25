@@ -1,7 +1,2 @@
-ada 5 flag
-level flag :
-impossible : 20 point 
-crackpassword : 15 point
-skeleton : 15 point
-godhex : 10 point
-CSS : 5 point
+easy : khusus dwika dan bang aji 
+medium : apta dan tegar
