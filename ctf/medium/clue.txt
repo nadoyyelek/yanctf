@@ -1,0 +1,3 @@
+1. kuncinya 100%  ada dikamu dalam memahami kodenya.
+2. kamu juga 100% harus memahami apa itu jwt dan cara penggunaannya.
+3. jika kamu 100% bisa memahami memahami clue nomor 1 dan 2, maka di clue 3 ini kamu 100% akan mendapatkan flagnya.

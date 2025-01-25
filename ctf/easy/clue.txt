@@ -1,0 +1,2 @@
+1. temukan flagnya yang berformat yanCTF{value} yang terenkripsi base64.
+2. akan tetapi flagnya terkubur didalam deskripsi, bisakah menemukannya?
